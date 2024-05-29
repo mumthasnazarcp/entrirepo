@@ -1,2 +1,2 @@
 # entrirepo
-exmp repo creatn
+excel project d32
