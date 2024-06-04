@@ -19,7 +19,24 @@ source: Provided by  entri
  Data Summary
 - Total sales revenue: 48.2%
 - Total units sold: 495
-- Customer demographic data: age, gender, region, occupation 
+- Customer demographic data: age, gender, region, occupation
+
+ Customer Segmentation
+#### Demographics
+- *Age Groups:*
+  - 18-24: 25%
+  - 25-34: 40%
+  - 35-44: 20%
+  - 45+: 15%
+  - 
+- *Gender:*
+  - Male: 70%
+  - Female: 30%
+    
+ -*Location:*
+
+ 
+
 
 
 
