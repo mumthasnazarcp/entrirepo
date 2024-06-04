@@ -32,11 +32,13 @@ source: Provided by  entri
 - *Gender:*
   - Male: 50.5%
   - Female: 49.5%
-
-     -*Location:*
+   
+- *Location:*
 
     -Europe : 38%
+ 
     -North America: 45%
+ 
     -Pacafic : 17%
 
 ## Findings
